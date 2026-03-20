@@ -6,5 +6,5 @@
 </p>
 
 <div align="center">
-  <img src="\Images\logo_fapesp_ilum.png" alt="Descrição da imagem" width="1000"/>
+  <img src="\Images\logo_fapesp_ilum_sfundo.png" alt="Descrição da imagem" width="1000"/>
 </div>
